@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/MRamadan"><img src="https://api.daily.dev/devcards/3b7806adb3eb4488b4a5bd621dcba87b.png?r=cyx" width="400" alt="Mohamed Ramadan's Dev Card"/></a>
+
 <!--
 **MohamedRamadan10/MohamedRamadan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
