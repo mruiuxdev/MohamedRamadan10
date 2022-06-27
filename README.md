@@ -1,8 +1,7 @@
-<a href="https://app.daily.dev/MRamadan"><img src="https://api.daily.dev/devcards/3b7806adb3eb4488b4a5bd621dcba87b.png?r=cyx" width="400" alt="Mohamed Ramadan's Dev Card"/></a>
-
 # 💫 About Me:
 I'm Senior UI/UX Designer - Front End Developer
 
+<a href="https://app.daily.dev/MRamadan"><img src="https://api.daily.dev/devcards/3b7806adb3eb4488b4a5bd621dcba87b.png?r=upt" width="400" alt="Mohamed Ramadan's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mruiuxdev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maradona.ramadan.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedr10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mr_uiux) 
